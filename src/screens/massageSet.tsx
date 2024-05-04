@@ -20,7 +20,7 @@ import {useIsFocused} from '@react-navigation/native';
 export const MassageSet = ({navigation}: any) => {
   return (
     <Container>
-      <Text>마사지 세팅</Text>
+      <Text>테스트</Text>
     </Container>
   );
 };
